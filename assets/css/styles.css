@@ -69,9 +69,7 @@ html{
 /*end common*/
 
 
-#main{
 
-}
 
 #header{
     height:46px;
@@ -183,9 +181,6 @@ background:url('/img/map1.jpg') top center/cover no-repeat;
     margin-top:20px;
 }
 
-#content{
-
-}
 #content .content-section{
     padding-right: 16px;
     padding-left: 16px;
